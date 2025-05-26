@@ -3,6 +3,8 @@
 
 **Imagine ART** is a simple and powerful web-based tool for generating AI-powered images based on user input. Users can describe the type of image they want, and the app brings their imagination to life using popular image generation models like **Stable Diffusion**, **FLUX**, and **OpenJourney** via the Hugging Face API.
 
+Live Demo Link:- https://yogeshh17.github.io/imagine-art/
+
 
 
 ## 🌟 Features
