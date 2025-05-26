@@ -7,8 +7,7 @@ const modelSelect = document.getElementById("model-select")
 const countSelect = document.getElementById("count-select")
 const ratioSelect = document.getElementById("ratio-select")
 
-// const API_KEY = "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";
-const API_KEY = "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";
+// const API_KEY = "";
 
 const examplePrompts =[
     "A magic forest with glowing plants and fairy homes among gaint mushrooms",
@@ -22,16 +21,6 @@ const examplePrompts =[
     "A group of stylish young adults posing on a city street corner, dressed in trendy modern urban fashion, with graffiti walls and a food truck behind them.",
 
 ]
-
-//according to default theme of the window
-// (() => {
-//  const savedTheme =localStorage.getItem("theme");
-//  const systemPrefersDark = window.matchMedia("(prefers-color-scheme:dark)").matches;
-
-//  const isDarkTheme = savedTheme === 'dark' || (!savedTheme && systemPrefersDark);
-//  document.body.classList.toggle("dark-theme", isDarkTheme);
-//  themeToggle.querySelector("i").className = isDarkTheme ? "fa-solid fa-sun" : "fa-solid fa-moon";
-// })();
 
 
 // light and dark mode
