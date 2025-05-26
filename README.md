@@ -38,7 +38,7 @@ Live Demo Link:- https://yogeshh17.github.io/imagine-art/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/imagine-art.git
+   git clone https://github.com/yogeshh17/imagine-art.git
    cd imagine-art
    ```
 
